@@ -12,8 +12,7 @@ Customer churn is a critical metric for any e-commerce platform, directly impact
 Through robust data cleaning in Power Query and advanced DAX modeling in Power BI, this analysis provides an interactive dashboard, saved as `ECOMMERCE CHURN ANALYSIS FINAL.pbix`[cite: 1], that uncovers actionable insights regarding customer tenure, logistics operations, and digital friction, enabling targeted retention strategies.
 
 ## 📊 The Dashboard
-*(Note: Upload `dashboard_preview.png` to your repository and GitHub will render it here)*
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ## 🛠️ Tech Stack & Tools
 * **Data Visualization & Modeling:** Microsoft Power BI
